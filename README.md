@@ -30,7 +30,8 @@ The data collected at baseline include breast ultrasound images among women in a
     │   └── ...
     └── normal/
         ├── normal (1).png
-        └── normal (1)_mask.png
+        ├── normal (1)_mask.png
+        └── ...
 ```
 
 ## Solution:
