@@ -22,7 +22,7 @@ The data collected at baseline include breast ultrasound images among women in a
     │   ├── benign (1).png
     │   ├── benign (1)_mask.png
     │   ├── benign (2).png
-    │   ├── benign (3)_mask.png
+    │   ├── benign (2)_mask.png
     │   └── ...
     ├── malignant/
     │   ├── malignant (1).png
