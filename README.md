@@ -43,5 +43,5 @@ https://drive.google.com/drive/folders/1ljjVvm4S7X6dXdtbS4wCe1CKylzP5UDz?usp=sha
 
 ## U-net
 
-base model: https://github.com/milesial/Pytorch-UNet
+base model: https://github.com/milesial/Pytorch-UNet <br>
 torch hub model: https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/mateuszbuda_brain-segmentation-pytorch_unet.ipynb#scrollTo=a50761ab
