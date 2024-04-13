@@ -45,3 +45,4 @@ https://drive.google.com/drive/folders/1ljjVvm4S7X6dXdtbS4wCe1CKylzP5UDz?usp=sha
 
 base model: https://github.com/milesial/Pytorch-UNet <br>
 torch hub model: https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/mateuszbuda_brain-segmentation-pytorch_unet.ipynb#scrollTo=a50761ab
+Working Unet from PyTorch: https://drive.google.com/drive/folders/1EWM-WX8GLZYZvp0joQc5j-rzB18B3-wD?usp=sharing
