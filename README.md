@@ -34,7 +34,7 @@ https://drive.google.com/drive/folders/1ljjVvm4S7X6dXdtbS4wCe1CKylzP5UDz?usp=sha
     │   └── ...
     └── normal/
         ├── normal (1).png
-        ├── normal (1)_mask.png
+        ├── normal (1)_mask.png 
         └── ...
 ```
 
